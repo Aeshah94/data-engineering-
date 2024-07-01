@@ -3,7 +3,7 @@
 
 ### Overview
 This capstone project encompasses Analytical Data Engineering tasks, focusing on data ingestion, transformation, and visualization using AWS services, Snowflake, Airbyte, Lambda, and Metabase.
-
+![Project Overview](https://github.com/Aeshah94/data-engineering-/blob/main/2024-07-02.png?raw=true)
 ### Project Phases
 1. **Data Ingestion:**
    - Connected to Postgres DB and AWS S3 bucket.
